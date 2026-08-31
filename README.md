@@ -24,7 +24,7 @@ My current career focus is on developing as a **Purple Team, SOC Analyst / Penet
 - Offensive and defensive security techniques
 - Risk assessment, reporting, and remediation
 
-All offensive-security activities are performed in **controlled and authorized laboratory environments** for learning and professional development.
+All Defensive and offensive-security activities are performed in **controlled and authorized laboratory environments** for learning and professional development.
 
 ---
 
@@ -34,6 +34,7 @@ All offensive-security activities are performed in **controlled and authorized l
 ### Security Operations & Threat Detection
 
 - **Wazuh SOC / Security Monitoring Lab**
+  - wazuh and Ubuntu Deployment 
   - Linux endpoint monitoring
   - Wazuh agent and security-event monitoring
   - Security alert investigation
@@ -44,6 +45,7 @@ All offensive-security activities are performed in **controlled and authorized l
   - Rule severity and event analysis
   - Investigation of individual security events
     
+    
 - **Linux Attack Emulation & Defensive Analysis**
   - Diamorphine kernel-module compilation and verification
   - Controlled Linux kernel-level attack emulation
@@ -52,6 +54,7 @@ All offensive-security activities are performed in **controlled and authorized l
   - Investigation of suspicious system-level activity
   - Analysis of security telemetry generated during attack simulation
   - Correlation of simulated attack activity with Wazuh security events
+    
 
 - **Malware Detection/Automation and Threat Intelligence**
   - EICAR antivirus test-file deployment in a controlled lab
@@ -65,6 +68,7 @@ All offensive-security activities are performed in **controlled and authorized l
   - Validation of malware-detection alerts within the SIEM
   - Active Response configuration
     
+    
 - **Investigation & Incident Analysis**
   - Security-event triage and investigation
   - Analysis of alert severity and rule IDs
@@ -72,6 +76,7 @@ All offensive-security activities are performed in **controlled and authorized l
   - Analysis of service failures and network changes
   - Correlation of endpoint, network and malware-related telemetry
   - Validation of security controls through controlled attack simulations
+
 
 
 ### Network Intrusion Detection
@@ -86,32 +91,33 @@ All offensive-security activities are performed in **controlled and authorized l
   - Port and protocol analysis
   - Security-event correlation
   - Alert validation and investigation
+    
 
-### Phishing Incident Analysis
+## Phishing Incident Analysis
 
-- Identification of phishing indicators
-- Suspicious sender and domain analysis
-- URL and IP investigation
-- DNS and domain intelligence
-- VirusTotal analysis
-- Evidence documentation
-- Phishing incident classification
+ - Identification of phishing indicators
+ - Suspicious sender and domain analysis
+ - URL and IP investigation
+ - DNS and domain intelligence
+ - VirusTotal analysis
+ - Evidence documentation
+ - Phishing incident classification
 
-### Defensive Skills Practiced
 
-- Security Operations and monitoring
-- Log analysis
-- Alert triage
-- Event correlation
-- Threat detection
-- IOC analysis
-- Malware Analysis
-- Incident investigation
-- Evidence documentation
-- Security reporting
-- Remediation recommendations
--
-- Malware Analysis
+## Defensive Skills Practiced
+
+ - Security Operations and monitoring
+ - Log analysis
+ - Alert triage
+ - Event correlation
+ - Threat detection
+ - IOC analysis
+ - Malware Analysis
+ - Incident investigation
+ - Evidence documentation
+ - Security reporting
+ - Remediation recommendations
+ - Malware Analysis
 
 ---
 
@@ -129,7 +135,7 @@ All offensive-security activities are performed in **controlled and authorized l
   - Risk assessment and remediation recommendations
   - Structured vulnerability assessment reporting
 
-  ### Penetration Testing 
+### Penetration Testing 
 
 - **Windows 7 Lab**
   - reconnaissance and service enumeration by spoofing 
@@ -139,7 +145,6 @@ All offensive-security activities are performed in **controlled and authorized l
   - Back-Door, Brut-forcing and Pay-load infiltration
   - Structured vulnerability assessment reporting
  
-- The exercise was also used to understand how offensive activity can produce **detectable events for defensive security monitoring**.
  
   --- 
 
@@ -169,8 +174,6 @@ All offensive-security activities are performed in **controlled and authorized l
 
 ## Other Training & Professional Development
 
-In addition to practical self-directed laboratories, I have developed my cybersecurity skills through structured training and professional-development programmes, including:
-
 - **TryHackMe**
 - **LetsDefend** 
 - **Code Alpha** – SOC / Cybersecurity practical experience
@@ -182,8 +185,6 @@ In addition to practical self-directed laboratories, I have developed my cyberse
 - **Cybersecurity Fundamentals**
 - **ISC2**
   
-
-These programmes and practical exercises have helped strengthen my knowledge of **SOC operations, security monitoring, incident response, Threat Analysis, vulnerability assessment, Penetration testing, Network Operations, Linux and Windows administration, and cybersecurity fundamentals**.
 
 ---
 
@@ -210,6 +211,6 @@ This portfolio contains documentation of cybersecurity activities performed **on
 
 Defensive and Offensive-security exercises are conducted for **educational, and professional-development purposes**.
 
-No unauthorised systems, networks, devices, accounts, or third-party infrastructure are intentionally targeted.
+No unauthorized systems, networks, devices, accounts, or third-party infrastructure are intentionally targeted.
 
 The projects presented in this repository are intended to demonstrate practical cybersecurity knowledge, security-testing methodology, threat detection, investigation, and defensive-security capabilities.
