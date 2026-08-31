@@ -30,6 +30,8 @@ I built and configured a **Security Operations Center (SOC) Home Lab** using Waz
 - Manager–Agent connectivity problems
 - Service and configuration validation
 
+![Agent installation ongoing](./images/Agent%20installation%20ongoing.png)
+
 ## Troubleshooting Approach
 **Identify the problem → Analyse errors → Review logs and configuration → Research documentation → Test solutions → Validate the result**
 
