@@ -30,7 +30,7 @@
 - Manager–Agent connectivity problems
 - Service and configuration validation
 
-![Agent installation ongoing](./images/Agent%20installation%20ongoing.png)
+ ![Agent installation ongoing](./images/agent-installation-ongoing.png)
 
 ## Troubleshooting Approach
 
