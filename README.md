@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a hands-on cybersecurity professional with practical experience across **offensive security, defensive security, SOC operations, Network Operations, threat detection, incident investigation, vulnerability assessment, Penetration Testing, Linux administration and Security Awareness**.
+I am a hands-on cybersecurity professional with practical experience across **offensive security, defensive security, SOC operations, Network Operations, threat detection, incident investigation, vulnerability assessment, Penetration Testing, Linux and windows administration, and Security Awareness**.
 
 My learning approach is strongly lab-driven. I build, test, monitor, investigate, and document security activities in controlled environments to develop a practical understanding of how attacks occur and how they can be detected, investigated, and mitigated.
 
