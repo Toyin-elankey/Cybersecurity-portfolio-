@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-I built and configured a **Security Operations Center (SOC) Home Lab** using Wazuh to develop practical skills in security monitoring, endpoint visibility, log collection, and threat detection.
+**Security Operations Center (SOC) Home Lab** 
 
 ## What I Built
 
@@ -33,6 +33,7 @@ I built and configured a **Security Operations Center (SOC) Home Lab** using Waz
 ![Agent installation ongoing](./images/Agent%20installation%20ongoing.png)
 
 ## Troubleshooting Approach
+
 **Identify the problem → Analyse errors → Review logs and configuration → Research documentation → Test solutions → Validate the result**
 
 
@@ -52,7 +53,7 @@ I built and configured a **Security Operations Center (SOC) Home Lab** using Waz
 
 ## Project Outcome
 
-**successfully Kali Linux Wazuh Server and an Ubuntu monitored endpoint**.
+**successfully established Kali Linux, Wazuh Server, and an Ubuntu monitored endpoint**.
 
 ## Projected SOC exercises involving:
 
@@ -64,6 +65,3 @@ I built and configured a **Security Operations Center (SOC) Home Lab** using Waz
 - Incident investigation
 - Threat hunting
 - Incident response
-
-
-This SOC Home Lab forms part of my ongoing development toward a career in **SOC Operations, Threat Detection, Incident Response, and Cybersecurity Analysis**.
