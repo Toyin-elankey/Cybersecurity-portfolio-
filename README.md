@@ -34,8 +34,8 @@ All Defensive and offensive-security activities are performed in **controlled an
 ### Security Operations & Threat Detection
 
 - **Wazuh SOC / Security Monitoring Lab**
-  - wazuh and Ubuntu Deployment 
-  - Linux endpoint monitoring
+  - Linux and Windows Deployment 
+  - Linux and windows endpoint monitoring
   - Wazuh agent and security-event monitoring
   - Security alert investigation
   - Systemd service-failure detection
