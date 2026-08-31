@@ -95,29 +95,29 @@ All Defensive and offensive-security activities are performed in **controlled an
 
 ## Phishing Incident Analysis
 
- - Identification of phishing indicators
- - Suspicious sender and domain analysis
- - URL and IP investigation
- - DNS and domain intelligence
- - VirusTotal analysis
- - Evidence documentation
- - Phishing incident classification
+  - Identification of phishing indicators
+  - Suspicious sender and domain analysis
+  - URL and IP investigation
+  - DNS and domain intelligence
+  - VirusTotal analysis
+  - Evidence documentation
+  - Phishing incident classification
 
 
 ## Defensive Skills Practiced
 
- - Security Operations and monitoring
- - Log analysis
- - Alert triage
- - Event correlation
- - Threat detection
- - IOC analysis
- - Malware Analysis
- - Incident investigation
- - Evidence documentation
- - Security reporting
- - Remediation recommendations
- - Malware Analysis
+  - Security Operations and monitoring
+  - Log analysis
+  - Alert triage
+  - Event correlation
+  - Threat detection
+  - IOC analysis
+  - Malware Analysis
+  - Incident investigation
+  - Evidence documentation
+  - Security reporting
+  - Remediation recommendations
+  - Malware Analysis
 
 ---
 
