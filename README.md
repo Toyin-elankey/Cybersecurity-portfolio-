@@ -159,8 +159,6 @@ All Defensive and offensive-security activities are performed in **controlled an
 - Ubuntu
 - packet Tracer 
 - Kali Linux
-- Linux administration
-- Windows administration
 - Journald / Linux system logs
 
 ### Offensive / Red Team**
