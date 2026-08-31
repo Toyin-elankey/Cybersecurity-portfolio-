@@ -161,7 +161,7 @@ All Defensive and offensive-security activities are performed in **controlled an
 - Kali Linux
 - Journald / Linux system logs
 
-### Offensive / Red Team**
+### Offensive / Red Team
 - Nmap
 - Nessus
 - Metasploit
