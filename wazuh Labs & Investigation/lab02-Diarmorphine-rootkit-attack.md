@@ -1,7 +1,7 @@
 
 # Diamorphine Attack Simulation & Threat Detection
 
-## Project Overview
+## Lab Overview
 
 What happens when a Linux rootkit compromises an endpoint, and can a SIEM detect the activity in real time?
 
