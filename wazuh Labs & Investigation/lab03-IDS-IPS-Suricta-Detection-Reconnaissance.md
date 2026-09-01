@@ -42,7 +42,7 @@ One of the detected events was:
 
 
 <img width="1920" height="922" alt="SURICATA MOVEMENT THROUGH UBUNTU  WAZUH DASHBOARD ALERT" src="https://github.com/user-attachments/assets/0a141163-4015-4f8a-80a4-51e95fc33a82" />
-*SURICATA MOVEMENT THROUGH UBUNTU*
+SURICATA MOVEMENT THROUGH UBUNTU
 
 
 This confirmed that reconnaissance-related ICMP activity was successfully captured and flagged for analyst investigation.
@@ -61,12 +61,12 @@ This confirmed that reconnaissance-related ICMP activity was successfully captur
   
 
 <img width="1920" height="920" alt="SURICATA IDS AND IPS RUNNING" src="https://github.com/user-attachments/assets/d59087a1-59c2-41c0-a2ed-26b736ed3994" />
-*SURICATA IDS AND IPS RUNNING*
+SURICATA IDS AND IPS RUNNING
 
 
 
 <img width="1920" height="920" alt="SURICATA LINKED TO OUR UBUNTU SUCCESSFULLY" src="https://github.com/user-attachments/assets/dc77fe19-9543-43d7-9f85-97be1c1050b2" />
-*SURICATA LINKED TO OUR UBUNTU SUCCESSFULLY*
+SURICATA LINKED TO OUR UBUNTU SUCCESSFULLY
 
 
 ##  Takeaway
