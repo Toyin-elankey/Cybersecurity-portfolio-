@@ -35,26 +35,21 @@
 
 The Wazuh agent was deployed on the monitored endpoint to enable centralized
 security monitoring and event collection. The installation process was
-verified before proceeding with the configuration and connection to the
-Wazuh manager.
-
-## 2. Wazuh Agent Deployment
-
-The Wazuh agent was deployed on the monitored endpoint to enable centralized
-security monitoring and event collection. The installation process was
-verified before proceeding with the configuration and connection to the
-Wazuh manager.
+verified before proceeding with configuration and connection to the Wazuh
+manager.
 
 ### Agent Installation
 
-The Wazuh agent installation process was initiated on the endpoint.
+The Wazuh agent installation process was initiated on the monitored endpoint.
 
-<img src="images/agent-installation-ongoing.png" 
-     alt="Wazuh Agent Installation" 
-     width="850">
+![Wazuh Agent Installation](./images/agent-installation-ongoing.png)
 
-The screenshot above demonstrates the Wazuh agent installation process in
-progress.
+*Figure 1: Wazuh agent installation process in progress.*
+
+The screenshot demonstrates the initial deployment stage of the Wazuh agent.
+Successful installation provides the endpoint with the capability to
+communicate with the Wazuh manager and forward security telemetry for
+centralized monitoring and analysis.
 
 
 ## Troubleshooting Approach
