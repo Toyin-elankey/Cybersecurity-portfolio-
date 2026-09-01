@@ -1,6 +1,6 @@
-# Built a SOC Home Lab: Wazuh Security Monitoring Environment
+#  Wazuh Security Monitoring Environment: SOC Home Lab
 
-## Project Overview
+## Lab Overview
 
 **Security Operations Center (SOC) Home Lab** 
 
