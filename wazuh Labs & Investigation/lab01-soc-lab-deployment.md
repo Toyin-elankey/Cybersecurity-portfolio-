@@ -34,14 +34,11 @@
 
 The Wazuh agent installation process was initiated on the monitored endpoint.
 
-![Wazuh Agent Installation](./images/agent-installation-ongoing.png)
+![Wazuh Agent Installation](https://raw.githubusercontent.com/Toyin-elankey/Cybersecurity-portfolio/main/wazuh%20Labs%20%26%20Investigation/images/agent-installation-ongoing.png)
 
 *Figure 1: Wazuh agent installation process in progress.*
 
 The screenshot demonstrates the initial deployment stage of the Wazuh agent. Successful installation provides the monitored endpoint with the capability to communicate with the Wazuh manager and forward security telemetry for centralized monitoring and analysis.
-
-
-
 ## Troubleshooting Approach
 
 **Identify the problem → Analyse errors → Review logs and configuration → Research documentation → Test solutions → Validate the result**
