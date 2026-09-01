@@ -1,6 +1,6 @@
 # IDS/IPS Suricata SOC Lab — Network Reconnaissance Detection
 
-## Project Overview
+## Lab Overview
 
 Attackers rarely announce their presence. Reconnaissance often begins with quiet network probing, making early detection critical to effective SOC operations.
 
