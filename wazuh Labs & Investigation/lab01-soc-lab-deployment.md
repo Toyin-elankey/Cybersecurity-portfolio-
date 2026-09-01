@@ -31,6 +31,22 @@
 - Service and configuration validation
 
 
+## 2. Wazuh Agent Deployment
+
+The Wazuh agent was deployed on the monitored endpoint to enable centralized
+security monitoring and event collection. The installation process was
+verified before proceeding with the configuration and connection to the
+Wazuh manager.
+
+### Agent Installation
+
+The Wazuh agent installation process was initiated on the endpoint.
+
+![Wazuh Agent Installation](images/agent-installation-ongoing.png)
+
+The screenshot above demonstrates the agent installation process in progress.
+
+
 
 ## Troubleshooting Approach
 
