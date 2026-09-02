@@ -1,7 +1,7 @@
 
 # 🛡️ Phishing Incident Response & IOC Investigation
 
-## 📌 Project Overview
+## Lab Overview
 
 A hands-on **Incident Response and Threat Intelligence investigation** focused on analyzing a suspicious phishing email campaign and identifying **Indicators of Compromise (IOCs)** using industry-standard security intelligence tools.
 
@@ -9,7 +9,7 @@ The investigation examined the email's delivery characteristics, embedded URLs, 
 
 ---
 
-## 🔍 Investigation Scope
+##  Investigation Scope
 
 The investigation focused on:
 
@@ -24,7 +24,6 @@ The investigation focused on:
 
 ## 🚨 Indicators of Compromise Identified
 
-The investigation identified the following indicators:
 
 * Suspicious sender email structure
 * Urgency and social-engineering techniques
@@ -34,7 +33,7 @@ The investigation identified the following indicators:
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 | Tool            | Purpose                                           |
 | --------------- | ------------------------------------------------- |
@@ -45,7 +44,7 @@ The investigation identified the following indicators:
 
 ---
 
-## 🔎 Key Findings
+##  Key Findings
 
 1. The embedded URL was flagged by multiple security vendors as **malicious or phishing-related**.
 2. The investigation identified suspicious **remote-access-related services** exposed within the analyzed infrastructure.
@@ -53,7 +52,7 @@ The investigation identified the following indicators:
 
 ---
 
-## 🎯 Final Assessment
+##  Final Assessment
 
 Based on the combined analysis of **IOCs, URL intelligence, domain information, and phishing indicators**, the suspicious email was classified as a **phishing incident** designed to socially engineer victims into interacting with a potentially malicious link.
 
@@ -71,11 +70,6 @@ Based on the combined analysis of **IOCs, URL intelligence, domain information, 
 
 ---
 
-## 📈 Project Outcome
-
-This investigation strengthened my practical ability to **identify, investigate, validate, and analyze phishing-related threats** using real-world threat intelligence and reconnaissance techniques.
-
-It also provided hands-on experience in connecting individual indicators—such as URLs, domains, IP addresses, DNS records, and email characteristics—to establish a clear understanding of a potential attack.
 
 > **Status:** ✅ Completed
 > **Focus:** Incident Response | Phishing Analysis | IOC Investigation | Threat Intelligence
