@@ -50,6 +50,38 @@ The investigation focused on:
 2. The investigation identified suspicious **remote-access-related services** exposed within the analyzed infrastructure.
 3. Although some domain reputation checks appeared clean, deeper analysis of the embedded URL, delivery method, and associated indicators strongly supported a **phishing classification**.
 
+
+
+<img width="1765" height="860" alt="incidence 1" src="https://github.com/user-attachments/assets/6696eefd-1462-4771-82fe-4f30b46a6be5" />
+
+
+<img width="786" height="591" alt="incidence 2" src="https://github.com/user-attachments/assets/b9037e64-7b1f-44d3-b928-2901e34aee11" />
+
+
+
+<img width="1162" height="883" alt="incidence 6" src="https://github.com/user-attachments/assets/0baa3c48-53df-4a40-822e-03743bbe4a11" />
+
+
+
+
+<img width="1920" height="883" alt="incidence 7" src="https://github.com/user-attachments/assets/bb53a8ca-5479-4b18-b757-35bc09a7bfe8" />
+
+
+<img width="1920" height="887" alt="incidence 3" src="https://github.com/user-attachments/assets/31bfcdad-82db-429e-a25a-fdb8a2799abf" />
+
+
+<img width="1434" height="842" alt="incidence 4" src="https://github.com/user-attachments/assets/59187dce-29d1-4706-909d-a8467b7c3b2d" />
+
+
+<img width="1037" height="973" alt="incidence 5" src="https://github.com/user-attachments/assets/c4a56678-bad6-45a9-8b61-9e1881bbfe3c" />
+
+
+
+
+
+
+
+
 ---
 
 ##  Final Assessment
