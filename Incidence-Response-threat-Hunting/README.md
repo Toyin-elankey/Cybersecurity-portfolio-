@@ -1,19 +1,19 @@
 
-# 🛡️ Phishing Incident Response & IOC Investigation
+# Phishing Incident Response & IOC Investigation
 
 > **Hands-on cybersecurity project focused on phishing detection, incident response, IOC investigation, and threat intelligence analysis.**
 
 ---
 
-## 📌 Project Overview
+## 📌 Lab Overview
 
-This project demonstrates a practical **Phishing Incident Response and Indicators of Compromise (IOC) Investigation** conducted against a suspicious email campaign.
+This Lab demonstrates a practical **Phishing Incident Response and Indicators of Compromise (IOC) Investigation** conducted against a suspicious email campaign.
 
 The investigation involved analyzing email characteristics, embedded URLs, domains, IP addresses, DNS records, and exposed services to determine whether the activity presented indicators of a phishing attack.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The primary objectives of this investigation were to:
 
@@ -27,9 +27,9 @@ The primary objectives of this investigation were to:
 
 ---
 
-## 🔍 Investigation Scope
+##  Investigation Scope
 
-The investigation focused on the following areas:
+
 
 ### 📧 Email Analysis
 
@@ -38,14 +38,14 @@ The investigation focused on the following areas:
 * Urgency-based messaging
 * Potential malicious attachment delivery
 
-### 🔗 URL Investigation
+###  URL Investigation
 
 * Embedded and shortened URLs
 * URL reputation
 * Redirect behavior
 * Phishing indicators
 
-### 🌐 Infrastructure Analysis
+###  Infrastructure Analysis
 
 * Domain reputation
 * DNS records
@@ -55,7 +55,7 @@ The investigation focused on the following areas:
 
 ---
 
-## 🚨 Indicators of Compromise Identified
+## 🚨Indicators of Compromise Identified
 
 The investigation identified several indicators consistent with phishing activity:
 
@@ -69,7 +69,7 @@ The investigation identified several indicators consistent with phishing activit
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 | Tool            | Purpose                                                     |
 | --------------- | ----------------------------------------------------------- |
@@ -80,7 +80,7 @@ The investigation identified several indicators consistent with phishing activit
 
 ---
 
-## 🔎 Key Findings
+##  Key Findings
 
 ### 1. Malicious URL Detection
 
@@ -100,7 +100,7 @@ The combined indicators were consistent with a **phishing-based attack designed 
 
 ---
 
-## 🧠 Investigation Methodology
+##  Investigation Methodology
 
 ```text
 Suspicious Email
@@ -128,7 +128,7 @@ IOC Extraction
 
 ---
 
-## 🛡️ Incident Assessment
+##  Incident Assessment
 
 **Classification:** Phishing Incident
 **Threat Category:** Social Engineering / Malicious URL
@@ -138,7 +138,7 @@ IOC Extraction
 
 ---
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 * Incident Response
 * Phishing Investigation
@@ -154,17 +154,11 @@ IOC Extraction
 
 ---
 
-## 📈 Project Outcome
 
-This project strengthened practical skills in **phishing detection, IOC investigation, threat intelligence correlation, and incident response**.
-
-It demonstrates the ability to move from an initial suspicious email to structured technical analysis by correlating **email indicators, URLs, domains, DNS records, IP intelligence, and infrastructure exposure** to reach an evidence-based security assessment.
-
----
 
 ## ⚠️ Disclaimer
 
-This project was conducted in a controlled learning environment for **educational and cybersecurity training purposes**.
+This Lab was conducted in a controlled learning environment for **educational and cybersecurity training purposes**.
 
 No unauthorized systems, accounts, or infrastructure were intentionally targeted.
 
