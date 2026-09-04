@@ -22,6 +22,10 @@ The investigation focused on:
 
 ---
 
+<img width="1000" height="848" alt="incidence Question" src="https://github.com/user-attachments/assets/ac7b4f12-90f8-4391-9e7c-76b327ebe748" />
+
+
+
 ## 🚨 Indicators of Compromise Identified
 
 
