@@ -1,5 +1,21 @@
 # Cybersecurity Portfolio – Offensive & Defensive Security
 
+## 🗂️ Portfolio Map
+
+This repository is ranked to follow the SOC analyst workflow — read it top to bottom:
+
+| Rank | Section | What's Inside |
+| :--: | ------- | ------------- |
+| 🏠 | **README** *(you are here)* | Portfolio overview, skills, tools & career focus |
+| **1** | [wazuh Labs & Investigation](./1-wazuh-Labs-Investigation) | SOC home lab — Wazuh SIEM deployment, Suricata IDS/IPS, Diamorphine rootkit attack emulation, automated malware detection & VirusTotal threat intelligence |
+| **2** | [Incident Response & Threat Hunting](./2-Incident-Response-Threat-Hunting) | Phishing incident response, IOC extraction and threat-intelligence investigation |
+| **3** | [Network Operations](./3-Network-Operations) | Cisco Packet Tracer labs — LAN design, subnetting, DNS, routing and wireless configuration |
+| **4** | [Projects](./4-Projects) | Additional hands-on security projects |
+
+> 💡 *Tip: GitHub displays folders alphabetically, so each section is numbered (`1-`, `2-`, `3-`, `4-`) to lock in this ranking order.*
+
+---
+
 ## About Me
 
 I am a hands-on cybersecurity professional with practical experience across **offensive security, defensive security, SOC operations, Network Operations, threat detection, incident investigation, vulnerability assessment, Penetration Testing, Linux and windows administration, and Security Awareness**.
