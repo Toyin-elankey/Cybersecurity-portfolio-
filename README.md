@@ -10,9 +10,22 @@ This repository is ranked to follow the SOC analyst workflow — read it top to 
 | **1** | [wazuh Labs & Investigation](./1-wazuh-Labs-Investigation) | SOC home lab — Wazuh SIEM deployment, Suricata IDS/IPS, Diamorphine rootkit attack emulation, automated malware detection & VirusTotal threat intelligence |
 | **2** | [Incident Response & Threat Hunting](./2-Incident-Response-Threat-Hunting) | Phishing incident response, IOC extraction and threat-intelligence investigation |
 | **3** | [Network Operations](./3-Network-Operations) | Cisco Packet Tracer labs — LAN design, subnetting, DNS, routing and wireless configuration |
-| **4** | [Projects](./4-Projects) | Additional hands-on security projects |
+| **4** | [Projects](./4-Projects) | Standalone completed projects — vulnerability assessment capstone, Suricata + Wazuh intrusion detection, phishing incident response and phishing awareness training |
 
 > 💡 *Tip: GitHub displays folders alphabetically, so each section is numbered (`1-`, `2-`, `3-`, `4-`) to lock in this ranking order.*
+
+### 📁 Inside the Projects section
+
+Ranked by depth and impact, each with a full write-up alongside the original deliverable:
+
+| Rank | Project | Domain |
+| :--: | ------- | ------ |
+| **1** | [Vulnerability Assessment Capstone](./4-Projects/1-Vulnerability-Assessment-Capstone) — Kioptrix & Metasploitable 2 | 🔴 Offensive / Assessment |
+| **2** | [Network Intrusion Detection — Suricata + Wazuh](./4-Projects/2-Network-Intrusion-Detection-Suricata-Wazuh) | 🔵 Defensive / Detection |
+| **3** | [Phishing Incident Response — IR-2026-002](./4-Projects/3-Phishing-Incident-Response) | 🔵 Defensive / IR |
+| **4** | [Phishing Awareness Project](./4-Projects/4-Phishing-Awareness) | 🟢 Awareness / Prevention |
+
+*Across all four: assess → detect → respond → prevent.*
 
 ---
 
