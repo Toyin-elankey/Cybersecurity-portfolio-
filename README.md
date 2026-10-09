@@ -19,7 +19,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-1ba0d7?style=flat-square&logo=cisco&logoColor=white)
 
-[**Featured Work**](#-featured-work) · [**Portfolio Map**](#-portfolio-map) · [**Skills**](#-core-skills) · [**Tools**](#-tools--technologies) · [**Training**](#-training--professional-development) · [**Contact**](#-contact)
+[**Featured Work**](#-featured-work) · [**Portfolio Map**](#-portfolio-map) · [**Skills**](#-core-skills) · [**Tools**](#-tools--technologies) · [**Certifications**](#-certifications) · [**Training**](#-training--professional-development) · [**Contact**](#-contact)
 
 </div>
 
@@ -197,6 +197,33 @@ The repository follows a SOC analyst's workflow. Folders are numbered so GitHub 
 
 ---
 
+## 📜 Certifications
+
+**8 professional certificates** across cybersecurity, networking and Linux — every certificate PDF, preview image and verification route is archived in my **[CERTIFICATION-](https://github.com/Toyin-elankey/CERTIFICATION-)** repository.
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-5%20certificates-0a3069?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-1%20certificate-1ba0d7?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-2%20certificates-557c94?style=flat-square)
+
+| # | Certification | Issuer | Date | Verification |
+| :-: | --- | --- | :-: | --- |
+| 1 | **Security Operations Center (SOC)** | Coursera (authorized by Cisco) | 8 Oct 2026 | [coursera.org/verify/YW5D89QSPGHU](https://coursera.org/verify/YW5D89QSPGHU) |
+| 2 | **Cybersecurity Architecture** | Coursera (authorized by IBM) | 25 Sep 2026 | [coursera.org/verify/I3JMYVL2P529](https://coursera.org/verify/I3JMYVL2P529) |
+| 3 | **Cybersecurity Training Program (4 Months)** | TS Academy | 21 Aug 2026 | Certificate ID `TS5PFBW7DZTJ72` |
+| 4 | **Introduction to Cybersecurity Job Simulation** | Forage, with Commonwealth Bank | 3 Aug 2026 | Verification codes on certificate |
+| 5 | **Networking Basics** | Cisco Networking Academy | 22 Apr 2026 | Certificate ID `b83bfd5d-3f04-4285-9ab0-358d1b4d39f2` |
+| 6 | **Linux Unhatched: Certificate of Completion** | Cisco Networking Academy | 19 Mar 2026 | — |
+| 7 | **Linux Unhatched: Statement of Achievement** | Cisco Networking Academy, with NDG | 19 Mar 2026 | [Credly badge](https://www.credly.com/badges/7e2fe503-9629-477c-a268-94364fdd527b) |
+| 8 | **Certified in Cybersecurity (CC): Domain 1 — Security Principles** | ISC2 | 4 Feb 2026 | Learner ID on certificate |
+
+**Issuers:** ISC2 · Cisco (incl. Cisco Learning & Certifications via Coursera) · IBM (via Coursera) · Forage & Commonwealth Bank · TS Academy · NDG
+
+**Skills validated:** security principles · security architecture · security operations · applied cybersecurity (incident response, security awareness, penetration testing, data analysis) · networking basics · Linux administration
+
+> 📂 **Full certificate archive with PDFs and previews:** [github.com/Toyin-elankey/CERTIFICATION-](https://github.com/Toyin-elankey/CERTIFICATION-)
+
+---
+
 ## 🎓 Training & Professional Development
 
 | Provider | Focus |
@@ -231,3 +258,11 @@ I'm open to SOC and cybersecurity analyst opportunities, collaborations and feed
 ## ⚠️ Disclaimer
 
 Every activity in this portfolio was carried out in **isolated, authorised lab environments**, against **deliberately vulnerable machines**, or through **passive, non-intrusive OSINT**. It was all done for educational and professional-development purposes. Simulated organisations are fictional. Indicators are published **defanged**. No unauthorised systems, networks, accounts or third-party infrastructure were targeted.
+
+---
+
+## 📄 License
+
+This portfolio is released under the [MIT License](LICENSE) — © 2026 Emmanuel Oluwatoyin Ademoyega. You are free to use, share and adapt the lab documentation and reports with attribution.
+
+Certificate PDFs, preview images and credentials referenced from the [CERTIFICATION-](https://github.com/Toyin-elankey/CERTIFICATION-) repository are reproduced for portfolio and verification purposes and remain the property of their respective issuers (ISC2, Cisco, IBM, Coursera, Forage, Commonwealth Bank, TS Academy, NDG). Names, logos and trademarks belong to their respective owners.
